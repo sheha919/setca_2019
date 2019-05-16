@@ -2,4 +2,4 @@
 
 Maerials for the MolSSI Workshop at SETCA 2019.
 
-## This is a subtitle
+## Geometry Analysis project
