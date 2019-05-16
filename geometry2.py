@@ -1,4 +1,7 @@
 #this is my geometry analysis
+"""
+Functions an d script for geometry analysis
+"""
 import numpy
 import os
 import sys
